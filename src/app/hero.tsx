@@ -15,10 +15,10 @@ function Hero() {
       src="/image/oswald.png"
       alt="Oswald Corbett Portrait"
     />
-        <Typography variant="h3" color="white" className="mb-2">
+        <Typography variant="h3" color="white" className="mb-2" children={undefined} placeholder={undefined}>
           Oswald Corbett<br />Upcoming Indie Author
         </Typography>
-        <Typography variant="h1" color="white" className="lg:max-w-3xl">
+        <Typography variant="h1" color="white" className="lg:max-w-3xl" children={undefined} placeholder={undefined}>
           Website Coming Soon!
         </Typography>
         
